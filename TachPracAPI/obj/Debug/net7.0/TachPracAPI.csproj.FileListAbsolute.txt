@@ -3,7 +3,6 @@ D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.GeneratedMSBuildEdi
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.AssemblyInfoInputs.cache
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.AssemblyInfo.cs
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.csproj.CoreCompileInputs.cache
-D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\appsettings.Development.json
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\appsettings.json
@@ -12,11 +11,11 @@ D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\TachPracAPI.deps.json
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\TachPracAPI.runtimeconfig.json
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\TachPracAPI.dll
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\TachPracAPI.pdb
-D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\staticwebassets\msbuild.TachPracAPI.Microsoft.AspNetCore.StaticWebAssets.props
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TachPracAPI.props
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TachPracAPI.props
@@ -31,3 +30,15 @@ D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\refint\TachPracAPI.dll
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.pdb
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\TachPracAPI.genruntimeconfig.cache
 D:\.Net\TachPracAPI\TachPracAPI\obj\Debug\net7.0\ref\TachPracAPI.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.Bcl.Memory.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net\TachPracAPI\TachPracAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
